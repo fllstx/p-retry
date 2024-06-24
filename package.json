@@ -1,6 +1,6 @@
 {
 	"name": "@fullstax/p-retry",
-	"version": "6.2.0-patch.2",
+	"version": "6.2.0-patch.3",
 	"description": "Retry a promise-returning or async function",
 	"license": "MIT",
 	"repository": "fllstx/p-retry",
@@ -50,7 +50,7 @@
 	],
 	"dependencies": {
 		"@types/retry": "0.12.2",
-		"@fullstax/is-network-error": "^1.1.0",
+		"@fullstax/is-network-error": "^1.1.0-patch.1",
 		"retry": "^0.13.1"
 	},
 	"devDependencies": {
