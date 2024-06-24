@@ -3,7 +3,7 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var retry = require('retry');
-var isNetworkError = require('is-network-error');
+var isNetworkError = require('@fullstax/is-network-error');
 
 class AbortError extends Error {
 	constructor(message) {
