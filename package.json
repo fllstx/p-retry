@@ -1,6 +1,6 @@
 {
 	"name": "@fullstax/p-retry",
-	"version": "6.2.0",
+	"version": "6.2.0-patch.1",
 	"description": "Retry a promise-returning or async function",
 	"license": "MIT",
 	"repository": "fllstx/p-retry",
